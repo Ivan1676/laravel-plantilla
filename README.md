@@ -1,12 +1,15 @@
 ## Steps just in case not working (provisional)
 -Composer install
+<br />
 
 ## Generate an autoload.php on vendor
 -composer self-update
 -composer install --no-scripts
 -composer install -vvv
+<br />
 
 ## Rename .envexample and change it
+<br />
 
 ## If you wanna use npm run dev
 -npm install -D tailwindcss postcss autoprefixer
